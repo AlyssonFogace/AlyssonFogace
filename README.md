@@ -24,7 +24,7 @@
 
 <img align="right" width="270" src="https://capsule-render.vercel.app/api?type=rounded&height=180&color=0d0d0d&text=%3C%2F%3E&fontColor=007acc&fontSize=80&fontAlignY=55&stroke=3b82f6&strokeWidth=1" />
 
-Sou estudante de **Ciência da Computação na Estácio**, atuando no desenvolvimento de software com foco em **Backend, Análise de Dados e Automação de Processos**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atuando no desenvolvimento de software com foco em **Backend, Análise de Dados e Automação de Processos**.
 
 Tenho experiência prática no ecossistema de telecomunicações e TI (**Telefônica Brasil / Vivo Start**), aplicando tecnologia para solucionar problemas operacionais, otimizar fluxos de dados e integrar assistentes inteligentes.
 
