@@ -1,70 +1,46 @@
 <div align="center">
+<img src="https://github.com/alyssonfogace.png" width="140" style="border-radius: 50%;" alt="Alysson Fogace"/>
+# Alysson Fogace
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Backend+%26+DevOps;Node.js+%7C+Python+%7C+SQL+%2B+NoSQL;Construindo+Agentes+de+IA+%26+Automa%C3%A7%C3%B5es" alt="Typing Animation" />
+<p align="center">
+  <a href="https://github.com/alyssonfogace">
+    <img src="https://komarev.com/ghpvc/?username=alyssonfogace&label=VISITAS&color=007acc&style=flat-square" alt="Profile views"/>
+  </a>
+</p>
+</div>
+---
+### 🚀 Sobre Mim
+Sou estudante de **Ciência da Computação** atuando na interseção entre **Backend, DevOps e IA Aplicada**. Tenho experiência no ecossistema corporativo de tecnologia e telecomunicações (**Telefônica Brasil / Vivo**), desenvolvendo soluções para otimização operacional, manipulação de dados em escala e integração de agentes inteligentes.
+**Em que venho trabalhando:**
+* ⚙️ **Backend & APIs:** Arquiteturas resilientes e RESTful com **Node.js (Express)** e **Python**.
+* ☁️ **DevOps & Cloud:** Conteinerização (**Docker**), pipelines CI/CD com **GitHub Actions** e infraestrutura em **Azure / Google Cloud**.
+* 🤖 **IA & Automação:** Desenvolvimento de soluções com arquitetura **RAG**, agentes analíticos e fluxos automatizados.
+* 🗄️ **Dados:** Modelagem e manipulação em **SQL** (PostgreSQL/MySQL/SQL Server) e **NoSQL** (MongoDB).
+---
+### 🛠️ Tech Stack & Ferramentas
 
-# 🚀 Alysson Fogace
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens & Backend** | `JavaScript` `TypeScript` `Node.js` `Express` `Python` `C++` |
+| **DevOps & Cloud** | `Docker` `Git` `GitHub Actions` `Azure` `Google Cloud` |
+| **Bancos de Dados** | `PostgreSQL` `MongoDB` `MySQL` `SQL Server` `SQLite` |
+| **Ferramentas & Workflow** | `Postman` `VS Code` `Linux` |
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=24&duration=3000&pause=1000&color=007ACC&center=true&vCenter=true&width=700&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Backend+%7C+Node.js+%2B+Python;Bancos+de+Dados+%7C+MongoDB+%2B+SQL;Construindo+Agentes+de+IA%2C+APIs+e+Automa%C3%A7%C3%B5es" alt="Typing Animation" />
-
-<br>
-
-<a href="https://github.com/alyssonfogace">
-  <img src="https://komarev.com/ghpvc/?username=alyssonfogace&label=VISITAS%20AO%20PERFIL&color=007acc&style=flat-square" alt="Profile views"/>
+---
+<div align="center">
+### 📊 Estatísticas no GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alyssonfogace&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssonfogace&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
+</p>
+</div>
+---
+<div align="center">
+📫 **Vamos nos conectar?**
+<a href="https://www.linkedin.com/in/alyssonfogace" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
+<a href="mailto:seu-email@dominio.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </div>
-
----
-
-### ✦ Um pouco sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, focado no desenvolvimento de software **Backend, Bancos de Dados (SQL & NoSQL) e Automação de Processos**.
-
-Tenho experiência prática no ecossistema de tecnologia e telecomunicações (**Telefônica Brasil / Vivo Start**), aplicando soluções backend para otimização de rotinas operacionais, manipulação de dados e integração de assistentes inteligentes.
-
-**O meu foco atual inclui:**
-* ⚙️ Desenvolvimento Backend com **Node.js, Express e Python**
-* 🗄️ Modelagem e manipulação de Bancos de Dados (**MongoDB / NoSQL e SQL**)
-* 🤖 Soluções de IA Aplicada, arquiteturas **RAG (Retrieval-Augmented Generation)** e automação
-* 🔌 Criação e consumo de **APIs RESTful**
-* 📊 Análise, tratamento e limpeza de dados
-* ☁️ Fundamentos de Cloud e DevOps (**Azure, Git/GitHub, Docker**)
-
----
-
-<div align="center">
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Linguagens & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,cpp,java,html,css,js&theme=dark" alt="Backend e Linguagens" />
-</p>
-
-### Bancos de Dados
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite&theme=dark" alt="Bancos de Dados" />
-</p>
-
-### Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,git,github,vscode,postman&theme=dark" alt="Ferramentas e Cloud" />
-</p>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Meu Stack
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Backend & Linguagens
-```text
-Node.js / Express ████████████████████  principal
-Python            ███████████████░░░░░  experiência
-C++ / Java        ██████████████░░░░░░  académico
