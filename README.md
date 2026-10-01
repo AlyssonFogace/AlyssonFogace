@@ -6,7 +6,7 @@
 
 # 🚀 Alysson Fogace
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=007ACC&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Backend+%26+DevOps;Especialista+em+Node.js+%2B+Python+%2B+Bancos+de+Dados;Criando+Agentes+de+IA%2C+APIs+RESTful+e+Pipelines" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=007ACC&center=true&vCenter=true&width=750&lines=Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Desenvolvedor+Python+%2B+DevOps+%7C+AWS;Especialista+em+MongoDB+%2B+SQL;Construindo+Solu%C3%A7%C3%B5es+em+Nuvem%2C+IA+%2B+Automa%C3%A7%C3%B5es" alt="Typing Animation" />
 
 <br>
 
@@ -25,20 +25,20 @@
 
 ### ✦ Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atuando no desenvolvimento **Backend, Engenharia DevOps e IA Aplicada**. Tenho vivência prática no ecossistema corporativo de tecnologia e telecomunicações (**Telefônica Brasil / Vivo**), aplicando soluções backend eficientes para otimização operacional, manipulação de dados em larga escala e automação inteligente.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com atuação focada em **Desenvolvimento Python, DevOps e Cloud**. Tenho experiência corporativa no setor de tecnologia e telecomunicações (**Telefônica Brasil / Vivo**), aplicando soluções para automação de processos, gerenciamento de dados e integração de agentes inteligentes.
 
-**Foco Atuação & Expertise:**
-* ⚙️ **Backend & APIs:** Arquiteturas escaláveis e APIs RESTful construídas com **Node.js, Express e Python**.
-* ☁️ **DevOps & Cloud:** Automação de ambientes, conteinerização com **Docker**, CI/CD e fundamentos em **Azure e Google Cloud**.
-* 🤖 **IA Aplicada & Automação:** Desenvolvimento de ecossistemas com **RAG (Retrieval-Augmented Generation)**, agentes analíticos e fluxos automatizados.
-* 🗄️ **Bancos de Dados:** Modelagem e otimização em **SQL** (PostgreSQL, MySQL, SQL Server) e **NoSQL** (MongoDB).
+**Foco de Atuação & Expertise:**
+* ☁️ **Cloud & DevOps (Foco AWS):** Arquiteturas em **AWS**, conteinerização com **Docker**, versionamento e automação com **Git/GitHub Actions**.
+* 🍃 **Bancos de Dados & NoSQL:** Forte experiência em **MongoDB** para modelagem documental, além de manipulação em bancos **SQL** (PostgreSQL, MySQL, SQL Server).
+* 🐍 **Python & Automações:** Desenvolvimento de scripts para otimização de rotinas, limpeza e tratamento de dados.
+* 🤖 **IA Aplicada & Agentes:** Implementação de arquiteturas **RAG (Retrieval-Augmented Generation)**, bancos vetoriais e assistentes inteligentes.
 
 ---
 
 ### 🛠️ Tech Stack & Ferramentas
 
 ```text
-Backend & Dev   :: | Python | C++
-DevOps & Cloud  :: Docker | Git | GitHub Actions | Azure | Google Cloud
-Databases       :: PostgreSQL | MongoDB | MySQL | SQL Server | SQLite
-Tools & OS      :: Linux | Postman | VS Code | Bash
+Cloud & DevOps   :: AWS | Docker | Git | GitHub Actions | Azure
+Bancos de Dados  :: MongoDB (Principal NoSQL) | PostgreSQL | MySQL | SQL Server
+Linguagens       :: Python | C++ | JavaScript
+Ferramentas      :: VS Code | Git Bash | GitHub
